@@ -1,0 +1,17 @@
+
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.article-boxes {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.blog {
+    margin-bottom: 200px;
+}
